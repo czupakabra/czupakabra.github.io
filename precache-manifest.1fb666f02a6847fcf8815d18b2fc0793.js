@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/ArrowRight.5018c780.png"
   },
   {
-    "revision": "d25eba05d24ac63588d2",
-    "url": "/static/css/main.69d2956b.chunk.css"
+    "revision": "d0c9ae889fd01d26c581",
+    "url": "/static/css/main.865d7c56.chunk.css"
   },
   {
-    "revision": "b2a2c5ce0b6b1c4d1d98",
-    "url": "/static/js/1.b2a2c5ce.chunk.js"
+    "revision": "28965dde326ea72e7c15",
+    "url": "/static/js/1.28965dde.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -36,24 +36,32 @@ self.__precacheManifest = [
     "url": "/static/media/audio.40bf205e.png"
   },
   {
-    "revision": "d25eba05d24ac63588d2",
-    "url": "/static/js/main.d25eba05.chunk.js"
-  },
-  {
     "revision": "7d765d975ae7a2fd7c0c0895e26a4741",
     "url": "/static/media/ArrowLeft.7d765d97.png"
   },
   {
-    "revision": "5ef8494f15048b691d7c3f601bda6764",
-    "url": "/static/media/ridwan-chandra-choa-archer-001a.5ef8494f.jpg"
+    "revision": "d0c9ae889fd01d26c581",
+    "url": "/static/js/main.d0c9ae88.chunk.js"
   },
   {
-    "revision": "9b3723941bb69e7865ec128b2a065bf7",
-    "url": "/static/media/ridwan-chandra-choa-archer-002a.9b372394.jpg"
+    "revision": "27150a1ca3c6b1b4f14f101ee1a9e8b4",
+    "url": "/static/media/1.27150a1c.jpg"
   },
   {
-    "revision": "61608f57ba61f47e43a08e802e5ff53b",
-    "url": "/static/media/ridwan-chandra-choa-archer-003a.61608f57.jpg"
+    "revision": "7bdb58058cfe6772d88cae3a2f47dcd4",
+    "url": "/static/media/2.7bdb5805.jpg"
+  },
+  {
+    "revision": "26ca711e74806408709a2651a8d10275",
+    "url": "/static/media/3.26ca711e.jpg"
+  },
+  {
+    "revision": "4e26c703c80f1dd7a60a3a70f34edc9d",
+    "url": "/static/media/4.4e26c703.jpg"
+  },
+  {
+    "revision": "79647f0d2b944e1a57c72c640b7a8d6a",
+    "url": "/static/media/5.79647f0d.jpg"
   },
   {
     "revision": "7066de1a770ee1bcde3daf0d77e79227",
@@ -68,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/RagnBone_Man_Human.add0cc5c.mp3"
   },
   {
-    "revision": "5f44b497ed9fdb758e4e0af0fad7ad67",
+    "revision": "f4200479ed3fd494c37252f9eff6365f",
     "url": "/index.html"
   }
 ];
